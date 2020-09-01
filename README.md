@@ -38,7 +38,7 @@ $ npm install
 
 ```bash
 # development
-$ npm run start
+$ npm  start
 
 # watch mode
 $ npm run start:dev
@@ -59,6 +59,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+http://localhost:3000/auth/signin
+http://localhost:3000/auth/signup
 
 ## Support
 
